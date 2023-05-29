@@ -1,0 +1,51 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+            'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: 
+            linear-gradient(90deg, rgba(236, 142, 142, 0.8), rgba(153, 100, 100, 0.3) 70.71%),
+            linear-gradient(90deg, rgba(68, 105, 68, 0.8), rgba(194, 224, 194, 0.3) 70.71%),
+            linear-gradient(90deg, rgba(44, 192, 106, 0.8), rgba(207, 207, 238, 0.25) 70.71%);
+}
+/* .breed-select {
+    display: none;
+    margin-bottom: 20px;
+}
+.breed-select:hover {
+    color: rgb(5, 5, 137);
+    background: rgb(232, 246, 247);
+    border-radius: 4px;
+}
+
+.cat-info {
+    
+    display: none;
+    gap: 20px;
+}
+
+.span {
+    font-weight: bold;
+}
+
+.error {
+    display: none;
+}
+
+.image {
+    border: 2px solid black;
+    box-shadow:
+            0px 1px 6px rgba(57, 65, 227, 1),
+            0px 1px 1px rgb(190, 110, 18,1),
+            0px 2px 1px rgb(2, 43, 12);
+        border-radius: 0px 0px 4px 4px;
+}
+.collection {
+box-shadow:
+        box-shadow: 0px 1px 24px 12px rgba(18, 1, 1, 0.31);
+            -webkit-box-shadow: 0px 1px 24px 12px rgba(18, 1, 1, 0.31);
+            -moz-box-shadow: 0px 1px 24px 12px rgba(18, 1, 1, 0.31);
+    /* border: 1px solid black; */
+    /* padding-left: 35px;
+    width: 50%;
+    height: 100%;
+
+} */
