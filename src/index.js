@@ -1,7 +1,7 @@
 import { Notify } from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
-// import throttle from 'lodash.throttle';
+import throttle from 'lodash.throttle';
 import { fetchImages } from './fetch.js';
 import { createImagesMarkup } from './creatmarkup.js';
 
